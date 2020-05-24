@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Submision Dicoding</string>
+    <string name="nama_lapotop">Nama Laptop</string>
+    <string name="harga_laptop">Rp.</string>
+    <string name="spek_laptop">Spesifikasi Laptop</string>
+    <string name="sld">Spek Laptop Detail</string>
+    <string name="overview_laptop">Overview Laptop</string>
+    <string name="old">Overview Laptop Detail</string>
+    <string name="nama_saya">Barnabas Sarbunan</string>
+    <string name="email_saya">barnabassarbunan@gmail.com</string>
+    <string name="laptop_identity">Processor \nMemory \nGrapich \nDisplay \nStorage \nNetworking \nBaterai \nWeight</string>
+    <string name="content_overview">content overview</string>
+    <string name="content_identity">content identity</string>
+
+
+</resources>
